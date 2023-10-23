@@ -2,15 +2,12 @@
 
 A Daily Goal 3D Flutter project.
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
+![3d.gif](screenshot%2F3d.gif)
 
-A few resources to get you started if this is your first Flutter project:
+![1.png](screenshot%2F1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![2.png](screenshot%2F2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3.png](screenshot%2F3.png)
